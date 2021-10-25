@@ -13,4 +13,4 @@ var sum = num3 + num9;
 var animals = ["chicken", "pig", "cow"];
 animals.shift();
 
-console.log(`${famousPerson.length}`);
+console.log(`{famousPerson.length}`);
