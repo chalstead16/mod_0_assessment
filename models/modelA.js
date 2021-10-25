@@ -2,7 +2,7 @@ var airport = {
   fullName: "Kennedy International Airport",
   abbreviation: "JFK",
   totalTerminals: 9,
-  totalPassengers: 625e5,
+  totalPassengers: 62500000,
   isOpen: true,
   isBusy: true,
   carriers: ["American Airlines", "Delta Air Lines", "JetBlue"],
